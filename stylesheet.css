@@ -18,7 +18,7 @@ li a {
     text-decoration: none;
 }
 li a:hover {
-    background-color: #111;
+    background-color: #e6e6e6;
 }
 
 li {
@@ -28,3 +28,5 @@ li {
 li:last-child {
     border-right: none;
 }
+
+
